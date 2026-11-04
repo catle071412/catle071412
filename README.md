@@ -1,4 +1,9 @@
-Hi, I'm Cat Le
+## Hi, my name is Cat Le
+
+### I'm a passionate developer from the USA
+
+#### I'm currently at Ody as a Software Engineering Intern 
+
 
 <!--
 **catle071412/catle071412** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
